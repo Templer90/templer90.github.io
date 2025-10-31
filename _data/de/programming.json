@@ -1,28 +1,29 @@
 {
   "proficient": [
+    "C/C++",
     "PHP",
     "C#",
-    "JavaScript",
-    "Java",
-    "Behat/Gherkin"
+    "Docker",
+    "Behat/Gherkin",
+    "Python"
   ],
   "knowledge": [
-    "C/C++",
-    "Python",
-    "HTML 5.0 / CSS",
+    "AI Systeme/Theorie",
+    "Golang",
     "Bash",
     "Linux",
+    "HTML 5.0 / CSS / JS",
+    "Java",
     "MySQL",
-    "Docker",
-    "Jekyll",
-    "Unix",
     "Lua",
     "Haskel"
   ],
   "frameworks": [
     "Yii2",
     "Unity",
-    "Behat"
+    "Behat",
+    "PyTest",
+    "QT"
   ],
   "misc": [
     {

@@ -2,5 +2,7 @@ name: Eric Heinz
 markdown: kramdown
 exclude:
   - README.md
+  - Makefile
+  - _pdf
   - themes/
 permalink: /blog/:year/:month/:day/:title

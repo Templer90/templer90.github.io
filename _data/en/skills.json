@@ -6,5 +6,9 @@
   {
     "title": "Software Testing",
     "text": "Testing is critical for every non trivial software and therefore best implemented as early as possible."
+  },
+  {
+    "title": "New Technology",
+    "text": "New Technology, like currently LLMs, should always be evaluated and integrated into the Product or Toolchain, if useful of cause."
   }
 ]

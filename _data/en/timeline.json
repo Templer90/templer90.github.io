@@ -1,7 +1,13 @@
 [
   {
+    "start_date": "2023",
+    "end_date": "2026",
+    "title": "Employed as Backend Developer at Link11",
+    "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS detection/defending application and internal support"
+  },
+  {
     "start_date": "2016",
-    "end_date": "2020",
+    "end_date": "2023",
     "title": "Employed as Junior (Backend) Developer at NFON AG",
     "info": "Backend api programming in PHP for a Cloud-based telephone system and supporting/developing internal Tools. Also Testing with Behat"
   },
@@ -16,10 +22,5 @@
     "end_date": "2015",
     "title": "Studied Informatik B.Sc. at Gutenberg Universität Mainz",
     "info": "Programming of an Onlinevoting-System at my University, also some other Courseworks"
-  },
-  {
-    "start_date": "2007",
-    "end_date": "2010",
-    "title": "Abitur at Integrierte Gesamtschule Ingelheim"
   }
 ]

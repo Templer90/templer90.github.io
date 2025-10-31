@@ -6,5 +6,9 @@
   {
     "title": "Software Testing",
     "text": "Tests sind kritisch für jede nicht triviale Anwendung und desshalb so früh wir möglich implementiert."
+  },
+  {
+    "title": "Neue Technologien",
+    "text": "Neue Technologien, wie LLMs, müssen evaluiert werden und gegebenenfalls in das Product oder die Toolchin integriert werden."
   }
 ]

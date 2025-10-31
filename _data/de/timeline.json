@@ -1,5 +1,11 @@
 [
   {
+    "start_date": "2023",
+    "end_date": "2026",
+    "title": "Backend Developer bei Link11",
+    "info": "Backend C und Python Entwicklung and Maintenence der Cloud-basierenden DDOS Erkennungs/Verhinderungs Application sowie interner Support"
+  },
+  {
     "start_date": "2016",
     "end_date": "2020",
     "title": "Junior (Backend) Developer bei NFON AG",
@@ -16,10 +22,5 @@
     "end_date": "2015",
     "title": "Informatik Studium an der Gutenberg Universität Mainz",
     "info": "Erstellung eines Online-Abstimmungs-Systems im Rahmen eines Universitätspraktikums und weitere Praktika im zuge des Studiums"
-  },
-  {
-    "start_date": "2007",
-    "end_date": "2010",
-    "title": "Abitur an der Integrierte Gesamtschule Ingelheim"
   }
 ]

@@ -19,10 +19,10 @@ layout: default
 
             <div class="yui-u">
                 <div class="contact-info">
-                    <h3><a id="pdf" href="/downloads/CV- Eric Heinz.pdf" class="download" title="Download CV as PDF">Download PDF</a></h3>
+                    <!--// pdf-exclude-start --><h3><a id="pdf" href="/downloads/CV- Eric Heinz.pdf" class="download" title="Download CV as PDF">Download PDF</a></h3><!--// pdf-exclude-end -->
                     <h3><a href="mailto:{{person.email}}">{{person.email}}</a></h3>
                     <h3>{{ person.telephone }}</h3>
-                    <h5>{{ topic.view_this }}<a href="/en/resume.html">EN</a> - <a href="/de/resume.html">DE</a></h5>
+                    <!--// pdf-exclude-start --><h5>{{ topic.view_this }}<a href="/en/resume.html">EN</a> - <a href="/de/resume.html">DE</a></h5><!--// pdf-exclude-end -->
                 </div><!--// .contact-info -->
             </div>
         </div><!--// .yui-gc -->
@@ -96,7 +96,7 @@ layout: default
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.knowledge %}
-                        {% include cv_table.html content=program rows="4" %}</div>
+                        {% include cv_table.html content=program rows="3" %}</div>
                 </div><!--// .yui-gf-->
 
                 <div class="yui-gf">
@@ -105,7 +105,7 @@ layout: default
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.frameworks %}
-                        {% include cv_table.html content=program rows="1" %}
+                        {% include cv_table.html content=program rows="2" %}
                     </div>
                 </div><!--// .yui-gf-->
 
@@ -136,7 +136,7 @@ layout: default
 
     <div id="ft">
         <p>{{person.name}} {{person.lastname}} &mdash; 	<a href="{{ person.handels.email }}">{{person.email}}</a> &mdash; {{ person.telephone }}</p>
-        <p>	<a href="https://github.com/Templer90">github</a> &mdash; 	<a href="{{ person.handels.xing }}">Xing</a></p>
+        <p>	<a href="https://github.com/Templer90">github</a> &mdash; 	<a href="{{ person.handels.linkedin }}">LinkedIn</a></p>
     </div><!--// footer -->
 
 </div><!-- // inner -->
