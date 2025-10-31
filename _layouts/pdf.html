@@ -1,14 +1,30 @@
----
-layout: default
----
-{% assign person =site.data[page.language].person %}
-{% assign topic = site.data[page.language].topics %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-{% assign programming = site.data[page.language].programming %}
-{% assign university = site.data[page.language].university %}
-{% assign timeline = site.data[page.language].timeline %}
-{% assign skills = site.data[page.language].skills %}
+    <meta name="keywords" content="Application CV" />
+    <meta name="description" content="A Application Landingpage or CV for {{ page.title }}" />
 
+    <link rel="stylesheet" type="text/css" href="/css/reset-fonts-grids.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/css/resume.css" media="all" />
+    <style media="all" >
+        @media print {
+            .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+        }
+    </style>
+
+</head>
+<body>
+<div id="doc2" class="yui-t7">
+    {% assign person =site.data[page.language].person %}
+    {% assign topic = site.data[page.language].topics %}
+
+    {% assign programming = site.data[page.language].programming %}
+    {% assign university = site.data[page.language].university %}
+    {% assign timeline = site.data[page.language].timeline %}
+    {% assign skills = site.data[page.language].skills %}
 <div id="inner">
     <div id="hd">
         <div class="yui-gc">
@@ -19,10 +35,8 @@ layout: default
 
             <div class="yui-u">
                 <div class="contact-info">
-                    <!--// pdf-exclude-start --><h3><a id="pdf" href="/downloads/CV- Eric Heinz.pdf" class="download" title="Download CV as PDF">Download PDF</a></h3><!--// pdf-exclude-end -->
                     <h3><a href="mailto:{{person.email}}">{{person.email}}</a></h3>
                     <h3>{{ person.telephone }}</h3>
-                    <!--// pdf-exclude-start --><h5>{{ topic.view_this }}<a href="/en/resume.html">EN</a> - <a href="/de/resume.html">DE</a></h5><!--// pdf-exclude-end -->
                 </div><!--// .contact-info -->
             </div>
         </div><!--// .yui-gc -->
@@ -96,7 +110,8 @@ layout: default
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.knowledge %}
-                        {% include cv_table.html content=program rows="3" %}</div>
+                        {% include cv_table.html content=program rows="4" %}
+                    </div>
                 </div><!--// .yui-gf-->
 
                 <div class="yui-gf">
@@ -105,7 +120,7 @@ layout: default
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.frameworks %}
-                        {% include cv_table.html content=program rows="2" %}
+                        {% include cv_table.html content=program rows="1" %}
                     </div>
                 </div><!--// .yui-gf-->
 
@@ -118,6 +133,7 @@ layout: default
                         {% include cv_table.html content=interest rows="1" %}
                     </div>
                 </div><!--// .yui-gf-->
+                <div class="pagebreak"> </div>
 
                 <div class="yui-gf last">
                     <div class="yui-u first">
@@ -143,10 +159,16 @@ layout: default
             </div><!--// .yui-b -->
         </div><!--// yui-main -->
     </div><!--// bd -->
+    
     <div id="ft">
-        <p>{{person.name}} {{person.lastname}} &mdash; 	<a href="{{ person.handels.email }}">{{person.email}}</a> &mdash; {{ person.telephone }}</p>
-        <p>	<a href="https://github.com/Templer90">github</a> &mdash; 	<a href="{{ person.handels.linkedin }}">LinkedIn</a></p>
+        <p>{{person.name}} {{person.lastname}} &mdash; <a href="{{ person.handels.email }}">{{person.email}}</a> &mdash;
+            {{ person.telephone }}</p> 
+        <p><a href="{{ person.handels.github }}">github</a> &mdash; <a href="{{ person.handels.linkedin }}">linkedin</a>
+        </p>
     </div><!--// footer -->
 
 </div><!-- // inner -->
 
+</div><!--// doc -->
+</body>
+</html>

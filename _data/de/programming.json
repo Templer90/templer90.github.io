@@ -16,7 +16,8 @@
     "Java",
     "MySQL",
     "Lua",
-    "Haskel"
+    "Haskel", 
+    "Agile Environments"
   ],
   "frameworks": [
     "Yii2",
@@ -24,6 +25,12 @@
     "Behat",
     "PyTest",
     "QT"
+  ],
+  "other": [
+    "Virtual Reality",
+    "Retrocomputing",
+    "Theoretische Informatik",
+    "Simulationen"
   ],
   "misc": [
     {

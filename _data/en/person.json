@@ -5,12 +5,12 @@
   "birthday": "09 September 1990",
   "address": "Im Bienengarten 25",
   "town": "55218 Ingelheim, Germany",
-  "telephone": "0151 - 59895486",
+  "telephone": "+49 151 - 59895486",
   "email": "ericTempler@googlemail.com",
   "spoken_languages": ["German", "English"],
   "handels": {
     "github": "https://github.com/Templer90",
     "email": "mailto:ericTempler@googlemail.com",
-    "linkedin": "https://www.linkedin.com/in/eric-heinz-35b520228/"
+    "linkedin": "https://www.linkedin.com/in/eric-heinz-35b520228"
   }
 }

@@ -8,7 +8,10 @@
     "text": "Testing is critical for every non trivial software and therefore best implemented as early as possible."
   },
   {
-    "title": "New Technology",
-    "text": "New Technology, like currently LLMs, should always be evaluated and integrated into the Product or Toolchain, if useful of cause."
-  }
+    "title": "Agile Methods",
+    "text": "I am accustomed to work in an agile environment and had the opportunity to guide other teams in this regard."
+  },  {
+  "title": "New Technology",
+  "text": "New Technology, like currently LLMs, should always be evaluated and integrated into the Product or Toolchain, if useful of cause."
+}
 ]

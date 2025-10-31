@@ -5,10 +5,13 @@
   },
   {
     "title": "Software Testing",
-    "text": "Tests sind kritisch für jede nicht triviale Anwendung und desshalb so früh wir möglich implementiert."
+    "text": "Tests sind kritisch für jede nicht triviale Anwendung und desshalb so früh wie möglich implementiert."
   },
   {
-    "title": "Neue Technologien",
-    "text": "Neue Technologien, wie LLMs, müssen evaluiert werden und gegebenenfalls in das Product oder die Toolchin integriert werden."
-  }
+    "title": "Agile Methoden",
+    "text": "Ich bin es gewohnt in einer Agilen Struktur zu arbeiten und hatte das Vergnügen andere Teams in disen zu beraten."
+  },  {
+  "title": "Neue Technologien",
+  "text": "Neue Technologien, wie LLMs, müssen evaluiert werden und gegebenenfalls in das Product oder die Toolchin integriert werden."
+}
 ]

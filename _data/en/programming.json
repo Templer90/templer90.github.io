@@ -25,6 +25,12 @@
     "PyTest",
     "QT"
   ],
+  "other": [
+    "Virtual Reality",
+    "Retrocomputing",
+    "Theoretical computer science",
+    "Simulation"
+  ],
   "misc": [
     {
       "title": "Softskills: ",
