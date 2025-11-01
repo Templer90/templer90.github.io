@@ -1,17 +1,19 @@
 [
   {
     "title": "Teamwork",
-    "text": "I have worked in Teams of various sizes across multiple Orgs. Most of the time in close contact, as if I would share an office with them."
+    "data": ["I have worked in Teams of various sizes across multiple Orgs. Most of the time in close contact, as if I ","would share an office with them."]
   },
   {
     "title": "Software Testing",
-    "text": "Testing is critical for every non trivial software and therefore best implemented as early as possible."
+    "data": [ "Testing is critical for every non trivial software and therefore best implemented as early as"," possible. Robust testing enables a bugfree Application."]
   },
   {
     "title": "Agile Methods",
-    "text": "I am accustomed to work in an agile environment and had the opportunity to guide other teams in this regard."
-  },  {
-  "title": "New Technology",
-  "text": "New Technology, like currently LLMs, should always be evaluated and integrated into the Product or Toolchain, if useful of cause."
-}
+    "data": [ "I am accustomed to work in an agile environment and had the opportunity to guide other teams in this regard.","I am of the opinion that this is one of the best methods for backend developing."]
+  },  
+  {
+  "title": "New Technologies",
+    "data": [ 
+      "New Technologies, like currently LLMs, should always be evaluated and integrated into the Product or Toolchain, if useful of cause."]
+  }
 ]

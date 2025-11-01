@@ -4,27 +4,28 @@
     "data": [
       "Bachelor of Science in Informatik ",
       "at Gutenberg Universität Mainz ",
+      "&nbsp;",
       "Nebenfach: BWL"
     ]
   },
   {
     "title": "Bachelor Thesis",
-    "data": "Visualisierung von Volumendaten mithilfe der Oculus Rift"
+    "data": "● Visualisierung von &nbsp;&nbsp;Volumendaten mithilfe der &nbsp;&nbsp;Oculus Rift"
   },
   {
     "title": "Specialization",
     "data": [
-      "Client-/Serverseitige Web&shy;anwendungen",
-      "Operating Systems",
-      "Mobile Computing",
-      "Artificial Intelligence"
+      "● Client-/Serverseitige Web&shy;&nbsp;&nbsp;anwendungen",
+      "● Operating Systems",
+      "● Mobile Computing",
+      "● Artificial Intelligence"
     ]
   },
   {
     "title": "Seminars",
     "data": [
-      "Angewandte Algorithmik",
-      "Approaching Programming Contests"
+      "● Angewandte Algorithmik",
+      "● Approaching Programming Contests"
     ]
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "title": "Teamwork",
-    "text": "Ich habe in Teams verschiedener größe mit Mitgliedern verschiedener Abteiungen zusammengearbeitet. Immer so, als ob diese alle Mitglieder meines Temas im selben Büro sitzen würden."
+    "data": [ "Ich habe in Teams verschiedener größe mit Mitgliedern verschiedener Abteiungen zusammengearbeitet.","Immer so, als ob diese alle Mitglieder meines Temas im selben Büro sitzen würden."]
   },
   {
     "title": "Software Testing",
-    "text": "Tests sind kritisch für jede nicht triviale Anwendung und desshalb so früh wie möglich implementiert."
+    "data": [ "Tests sind kritisch für jede nicht triviale Anwendung und desshalb so früh wie möglich implementiert.","Robustes Testing ermöglicht eine bugfreie Anwendung."]
   },
   {
     "title": "Agile Methoden",
-    "text": "Ich bin es gewohnt in einer Agilen Struktur zu arbeiten und hatte das Vergnügen andere Teams in disen zu beraten."
+    "data": [ "Ich bin es gewohnt in einer Agilen Struktur zu arbeiten und hatte das Vergnügen andere Teams in diesen ","zu beraten. Ich bin ausßerdem der Meinung das dies eine der besten Methoden für das Entwickeln von Backend Anwendungen ist."]
   },  {
   "title": "Neue Technologien",
-  "text": "Neue Technologien, wie LLMs, müssen evaluiert werden und gegebenenfalls in das Product oder die Toolchin integriert werden."
+        "data": ["Neue Technologien, wie LLMs, müssen evaluiert werden und gegebenenfalls in das Product oder die Toolchin integriert werden."]
 }
 ]

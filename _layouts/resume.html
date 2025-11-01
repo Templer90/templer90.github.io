@@ -19,7 +19,7 @@ layout: default
 
             <div class="yui-u">
                 <div class="contact-info">
-                    <!--// pdf-exclude-start --><h3><a id="pdf" href="/downloads/CV- Eric Heinz.pdf" class="download" title="Download CV as PDF">Download PDF</a></h3><!--// pdf-exclude-end -->
+                    <!--// pdf-exclude-start --><h3><a id="pdf" href="/downloads/CV Eric Heinz.pdf" class="download" title="Download CV as PDF">Download PDF</a></h3><!--// pdf-exclude-end -->
                     <h3><a href="mailto:{{person.email}}">{{person.email}}</a></h3>
                     <h3>{{ person.telephone }}</h3>
                     <!--// pdf-exclude-start --><h5>{{ topic.view_this }}<a href="/en/resume.html">EN</a> - <a href="/de/resume.html">DE</a></h5><!--// pdf-exclude-end -->
@@ -59,7 +59,7 @@ layout: default
                         {% for skill in skills %}
                         <div class="talent">
                             <h2>{{skill.title}}</h2>
-                            <p>{{ skill.text }}</p>
+                            <p>{{ skill.data | join: "<br>" }}</p>
                         </div>
                         {% endfor %}
                     </div>
@@ -85,7 +85,7 @@ layout: default
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.proficient %}
-                        {% include cv_table.html content=program rows="2" %}
+                        {% include cv_table.html content=program rows="3" %}
                     </div>
                 </div><!--// .yui-gf-->
 
