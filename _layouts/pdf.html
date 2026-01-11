@@ -153,8 +153,17 @@
                         <div class="job{{ last }}">
                             <h2>{{ occurence.title }}</h2>
                             <h4>{{ occurence.start_date }} - {{ occurence.end_date }}</h4>
+                            {% if occurence.notice_periode %}
+                            <div>{{ occurence.notice_periode  }}</div><br>
+                            {% endif %}
                             {% if occurence.info %}
                             {{ occurence.info }}
+                            {% endif %}
+                            {% if occurence.work %}
+                            <div><br>{{ topic.work_experience }}</div>
+                            {% for workitem in occurence.work %}
+                            <div>{{ workitem| join: "<br>" }}</div>
+                            {% endfor %}
                             {% endif %}
                         </div>
                         {% endfor %}

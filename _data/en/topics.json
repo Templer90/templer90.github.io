@@ -12,5 +12,6 @@
   "address":"Address",
   "languages":"Languages",
   "occupation": "Developer",
+  "work_experience": "Tasks:",
   "view_this": "Language: "
 }

@@ -1,15 +1,18 @@
 [
   {
     "start_date": "2023",
-    "end_date": "2026",
-    "title": "Employed as Backend Developer at Link11",
-    "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS detection/defending application and internal support"
+    "end_date": "Current working there",
+    "notice_periode": "3 Month notice period at beginning of month",
+    "title": "Backend Developer at Link11 GmbH",
+    "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS detection/defending application and internal support",
+    "work": ["● Fixing of customer found bugs","● Maintenance/Developing of internal tools, e.g. Agile Sprint Analyse","● Internal engineering and tooling workshops", "● Maintenance of Systems"]
   },
   {
     "start_date": "2016",
     "end_date": "2023",
-    "title": "Employed as Junior (Backend) Developer at NFON AG",
-    "info": "Backend api programming in PHP for a Cloud-based telephone system and supporting/developing internal Tools. Also Testing with Behat"
+    "title": "Junior (Backend) Developer at NFON AG",
+    "info": "Backend api programming in PHP for a Cloud-based telephone system and supporting/developing internal Tools. Also Testing with Behat",
+    "work": ["● Fullstack Developer for internal Tools","● Backend API Design of the telephone system", "● Reimplementaion of old Services in Golang"]
   },
   {
     "start_date": "2014",
