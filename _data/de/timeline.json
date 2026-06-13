@@ -1,18 +1,33 @@
 [
   {
+    "start_date": "07 Juni 2026",
+    "title": "Sprecher bei GPN24",
+    "info": "Vortrag über ungewöhliches und stoplerfallen in verschiedenen Programmiersprachen<br>mit meinem Kollegen Matheus Gagno Brunetti<br><br><a href='https://media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion'>media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion</a>"
+  },
+  {
     "start_date": "2023",
-    "end_date": "Aktuell angestellt",
-    "notice_periode": "3 Monate Kündigungsfrist zu anfang des Monats",
+    "end_date": "September 2025",
+    "notice_periode_Comment": "3 Monate Kündigungsfrist zu anfang des Monats",
+    "notice_periode": "Kann ab dem 01 September anfangen",
     "title": "Backend Developer bei Link11 GmbH",
     "info": "Backend C und Python Entwicklung/Maintenence der Cloud-basierenden DDOS Erkennungs/Verhinderungs Application sowie interner Support",
-    "work": ["● Kunden betreffende Bugs beheben","● Pflege/Entwicklung interner Tools, z.b. Agile Sprint Analyse", "● Interne engineering und Tooling Lehrgänge", "● Maintenance der Anwendungen"]
+    "work": [
+      "● Kunden betreffende Bugs beheben",
+      "● Pflege/Entwicklung interner Tools, z.b. Agile Sprint Analyse",
+      "● Interne Engineering und Tooling Lehrgänge",
+      "● Maintenance der Anwendungen"
+    ]
   },
   {
     "start_date": "2016",
     "end_date": "2020",
     "title": "Junior (Backend) Developer bei NFON AG",
     "info": "Backend API Entwicklung eines Cloud-basierten Telefonsystems bei NFON AG und pflege/entwicklung von internen Tools, sowie Testing mit Behat",
-    "work": ["● Fullstack Entwickler für Interne Tools","● API Design des Backendes des Telefonsystems", "● Reimplementaion von alten Services in Golang"]
+    "work": [
+      "● Fullstack Entwickler für Interne Tools",
+      "● API Design des Backendes des Telefonsystems",
+      "● Reimplementaion von alten Services in Golang"
+    ]
   },
   {
     "start_date": "2014",

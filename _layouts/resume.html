@@ -132,7 +132,10 @@ layout: default
                         {% endif %}
                         <div class="job{{ last }}">
                             <h2>{{ occurence.title }}</h2>
-                            <h4>{{ occurence.start_date }} - {{ occurence.end_date }}</h4>
+                            {% if occurence.end_date %}<h4>{{ occurence.start_date }} - {{ occurence.end_date }}</h4>
+                            {% else %}
+                            <h4>{{ occurence.start_date }}</h4>
+                            {% endif %}
                             {% if occurence.notice_periode %}
                             <div>{{ occurence.notice_periode  }}</div><br>
                             {% endif %}

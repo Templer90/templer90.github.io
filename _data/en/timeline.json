@@ -1,8 +1,14 @@
 [
   {
+    "start_date": "07 June 2026",
+    "title": "Speaker at GPN24",
+    "info": "Talk about some unusual und unexpected parts in various programming languages<br>with my colleague Matheus Gagno Brunetti<br><br><a href='https://media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion'>media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion</a>"
+  },
+  {
     "start_date": "2023",
-    "end_date": "Current working there",
-    "notice_periode": "3 Month notice period at beginning of month",
+    "end_date": "September 20205",
+    "notice_periode_Comment": "3 Month notice period at beginning of month",
+    "notice_periode": "Free to work after September 01",
     "title": "Backend Developer at Link11 GmbH",
     "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS detection/defending application and internal support",
     "work": ["● Fixing of customer found bugs","● Maintenance/Developing of internal tools, e.g. Agile Sprint Analyse","● Internal engineering and tooling workshops", "● Maintenance of Systems"]

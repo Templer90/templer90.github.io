@@ -5,25 +5,28 @@
     "C#",
     "Docker",
     "Behat/Gherkin",
-    "Python"
+    "Python", 
+    "Java",
+    "Typescript/Javascript"
   ],
   "knowledge": [
-    "AI Systems/Theory",
-    "Golang",
+    "AI Systems / Theory",
+    "Go / Golang",
     "Bash",
-    "Linux",
-    "HTML 5.0 / CSS / JS",
-    "Java",
+    "Linux / Unix",
+    "HTML 5.0 / CSS",
+    "Clean Code & TDD",
     "MySQL",
     "Lua",
     "Agile Environments"
   ],
   "frameworks": [
-    "Yii2",
+    "React",
     "Unity",
-    "Behat",
     "PyTest",
-    "QT"
+    "QT",
+    "Laravel",    
+    "Node.js"
   ],
   "other": [
     "Virtual Reality",

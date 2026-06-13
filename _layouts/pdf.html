@@ -104,10 +104,12 @@
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.proficient %}
-                        {% include cv_table.html content=program rows="2" %}
+                        {% include cv_table.html content=program rows="3" %}
                     </div>
                 </div><!--// .yui-gf-->
                 <div class="pagebreak"> </div>
+                <br>
+                <br>
 
                 <div class="yui-gf">
                     <div class="yui-u first">
@@ -115,7 +117,7 @@
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.knowledge %}
-                        {% include cv_table.html content=program rows="4" %}
+                        {% include cv_table.html content=program rows="3" %}
                     </div>
                 </div><!--// .yui-gf-->
 
@@ -125,7 +127,7 @@
                     </div>
                     <div class="yui-u">
                         {% assign program = programming.frameworks %}
-                        {% include cv_table.html content=program rows="1" %}
+                        {% include cv_table.html content=program rows="2" %}
                     </div>
                 </div><!--// .yui-gf-->
 
@@ -135,7 +137,7 @@
                     </div>
                     <div class="yui-u">
                         {% assign interest = programming.other %}
-                        {% include cv_table.html content=interest rows="1" %}
+                        {% include cv_table.html content=interest rows="2" %}
                     </div>
                 </div><!--// .yui-gf-->
 
@@ -152,7 +154,10 @@
                         {% endif %}
                         <div class="job{{ last }}">
                             <h2>{{ occurence.title }}</h2>
-                            <h4>{{ occurence.start_date }} - {{ occurence.end_date }}</h4>
+                            {% if occurence.end_date %}<h4>{{ occurence.start_date }} - {{ occurence.end_date }}</h4>
+                            {% else %}
+                            <h4>{{ occurence.start_date }}</h4>
+                            {% endif %}
                             {% if occurence.notice_periode %}
                             <div>{{ occurence.notice_periode  }}</div><br>
                             {% endif %}
