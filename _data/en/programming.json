@@ -6,12 +6,12 @@
     "Docker",
     "Behat/Gherkin",
     "Python", 
-    "Java",
+    "Go / Golang",
     "Typescript/Javascript"
   ],
   "knowledge": [
     "AI Systems / Theory",
-    "Go / Golang",
+    "Java",
     "Bash",
     "Linux / Unix",
     "HTML 5.0 / CSS",
