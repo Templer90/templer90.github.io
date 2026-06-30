@@ -35,14 +35,11 @@
     "Simulation",
     "Carnivorous Plants"
   ],
-  "misc": [
+  "presentations": [
     {
-      "title": "Softskills: ",
-      "data": [
-        "I'm used to work in Teams",
-        "Likes IntelliJ IDEA",
-        "Prefers Vim"
-      ]
+      "title": "Speaker at GPN24",
+      "date": "07 June 2026",
+      "info": "Talk about some unusual and unexpected parts in various programming languages<br>with my colleague Matheus Gagno Brunetti: How to reverse access Arrays, fun about<br>floats, redefining constants on the fly, and more.<br><br><a href='https://media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion'>media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion</a>"
     }
   ]
 }

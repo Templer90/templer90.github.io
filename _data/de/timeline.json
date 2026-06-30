@@ -1,16 +1,11 @@
 [
   {
-    "start_date": "07 Juni 2026",
-    "title": "Sprecher bei GPN24",
-    "info": "Vortrag über ungewöhliches und stoplerfallen in verschiedenen Programmiersprachen<br>mit meinem Kollegen Matheus Gagno Brunetti<br><br><a href='https://media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion'>media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion</a>"
-  },
-  {
     "start_date": "2023",
-    "end_date": "September 2026",
+    "end_date": "August 2026",
     "notice_periode_Comment": "3 Monate Kündigungsfrist zu anfang des Monats",
     "notice_periode": "Kann ab dem 01 September anfangen",
     "title": "Backend Developer bei Link11 GmbH",
-    "info": "Backend C und Python Entwicklung/Maintenence der Cloud-basierenden DDOS Erkennungs/Verhinderungs Application sowie interner Support",
+    "info": "Backend C und Python Entwicklung/Maintenence der Cloud-basierenden DDOS <br>Erkennungs/Verhinderungs Application sowie interner Support",
     "work": [
       "● Kunden betreffende Bugs beheben",
       "● Pflege/Entwicklung interner Tools, z.b. Agile Sprint Analyse",
@@ -22,7 +17,7 @@
     "start_date": "2016",
     "end_date": "2023",
     "title": "Junior (Backend) Developer bei NFON AG",
-    "info": "Backend API Entwicklung eines Cloud-basierten Telefonsystems bei NFON AG und pflege/entwicklung von internen Tools, sowie Testing mit Behat",
+    "info": "Backend API Entwicklung eines Cloud-basierten Telefonsystems bei NFON AG und <br>pflege/entwicklung von internen Tools, sowie Testing mit Behat",
     "work": [
       "● Fullstack Entwickler für Interne Tools",
       "● API Design des Backendes des Telefonsystems",
@@ -33,12 +28,29 @@
     "start_date": "2014",
     "end_date": "2015",
     "title": "Fullstack Developer bei eTermio GmbH",
-    "info": "Fullstack (Frontend/Backend/DB) Entwicklung eines Online-Kalender-Systems bei eTermio GmbH"
+    "info": "Fullstack (Frontend/Backend/DB) Entwicklung eines Online-Kalender<br>Systems bei eTermio GmbH",
+    "work": [
+      "● Fullstack (Frontend/Backend/DB) Entwicklung",
+      "● API Design",
+      "● Kommunikation zwischen Kunden und Internen Datenbanken und E-Mail Komposition",
+      "<div class='pagebreak'> </div>"
+    ]
+  },
+  {
+    "start_date": "2013",
+    "end_date": "2014",
+    "title": "Werkstudent Fullstack Developer bei eTermio GmbH",
+    "info": "Werkstudent (Frontend/Backend/DB) Entwicklung eines Online-Kalender<br>Systems bei eTermio GmbH"
   },
   {
     "start_date": "2010",
     "end_date": "2015",
     "title": "Informatik Studium an der Gutenberg Universität Mainz",
-    "info": "Erstellung eines Online-Abstimmungs-Systems im Rahmen eines Universitätspraktikums und weitere Praktika im zuge des Studiums"
+    "info": "Erstellung eines Online-Abstimmungs-Systems im Rahmen eines Universitätspraktikums<br> und weitere Praktika im zuge des Studiums"
+  },
+  {
+    "start_date": "2010",
+    "title": "Abitur",
+    "info": "Allgemeine Hochschulreife"
   }
 ]

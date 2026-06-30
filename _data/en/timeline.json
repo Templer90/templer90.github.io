@@ -1,35 +1,53 @@
 [
   {
-    "start_date": "07 June 2026",
-    "title": "Speaker at GPN24",
-    "info": "Talk about some unusual und unexpected parts in various programming languages<br>with my colleague Matheus Gagno Brunetti<br><br><a href='https://media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion'>media.ccc.de/v/gpn24-578-three-languages-triple-the-confusion</a>"
-  },
-  {
     "start_date": "2023",
-    "end_date": "September 2026",
+    "end_date": "August 2026",
     "notice_periode_Comment": "3 Month notice period at beginning of month",
     "notice_periode": "Free to work after September 01",
     "title": "Backend Developer at Link11 GmbH",
-    "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS detection/defending application and internal support",
-    "work": ["● Fixing of customer found bugs","● Maintenance/Developing of internal tools, e.g. Agile Sprint Analyse","● Internal engineering and tooling workshops", "● Maintenance of Systems"]
+    "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS <br>detection/defending application and internal support",
+    "work": ["● Fixing of customer found bugs",
+      "● Maintenance/Developing of internal tools, e.g. Agile Sprint Analyse",
+      "● Internal engineering and tooling workshops", 
+      "● Maintenance of Systems"]
   },
   {
     "start_date": "2016",
     "end_date": "2023",
     "title": "Junior (Backend) Developer at NFON AG",
-    "info": "Backend api programming in PHP for a Cloud-based telephone system and supporting/developing internal Tools. Also Testing with Behat",
-    "work": ["● Fullstack Developer for internal Tools","● Backend API Design of the telephone system", "● Reimplementaion of old Services in Golang"]
+    "info": "Backend api programming in PHP for a Cloud-based telephone system and <br>supporting/developing internal Tools. Also Testing with Behat",
+    "work": [
+      "● Fullstack Developer for internal Tools",
+      "● Backend API Design of the telephone system", 
+      "● Reimplementaion of old Services in Golang"]
   },
   {
     "start_date": "2014",
     "end_date": "2015",
     "title": "Fullstack Developer at eTermio GmbH",
-    "info": "Fullstack (Frontend/Backend/DB) for a Online-Calender-App"
+    "info": "Fullstack (Frontend/Backend/DB) for a Online-Calender-App<br>",
+    "work": [
+      "● Fullstack (Frontend/Backend/DB) Development",
+      "● API Design",
+      "● Communication between customer and internal Databases and E-Mail composition",
+      "<div class='pagebreak'> </div>"
+    ]
+  },
+  {
+    "start_date": "2013",
+    "end_date": "2014",
+    "title": "Working Student Developer at eTermio GmbH",
+    "info": "Working Student (Frontend/Backend/DB) for a Online-Calender-App"
   },
   {
     "start_date": "2010",
     "end_date": "2015",
     "title": "Studied Informatik B.Sc. at Gutenberg Universität Mainz",
     "info": "Programming of an Onlinevoting-System at my University, also some other Courseworks"
+  },
+  {
+    "start_date": "2010",
+    "title": "Abitur",
+    "info": "General University Entrance Qualification"
   }
 ]

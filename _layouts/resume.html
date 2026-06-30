@@ -118,6 +118,20 @@ layout: default
                         {% include cv_table.html content=interest rows="1" %}
                     </div>
                 </div><!--// .yui-gf-->
+                
+                <div class="yui-gf">
+                    <div class="yui-u first">
+                        <h2>{{ topic.presentations }}</h2>
+                    </div>
+                    <div class="yui-u">
+                        {% for pres in  programming.presentations %}
+                        <div class="presentation">
+                            <h2>{{ pres.title }}</h2><h4>{{ pres.date }}</h4>
+                            {{ pres.info }}
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div><!--// .yui-gf-->
 
                 <div class="yui-gf last">
                     <div class="yui-u first">
