@@ -162,6 +162,10 @@ layout: default
                             <div>{{ workitem| join: "<br>" }}</div>
                             {% endfor %}
                             {% endif %}
+                            {% if occurence.used_languages %}
+                            <div><br>{{ topic.used_languages }}<br>
+                                &nbsp&nbsp&nbsp{{ occurence.used_languages }}</div>
+                            {% endif %}
                         </div>
                         {% endfor %}
                     </div><!--// .yui-u -->

@@ -6,10 +6,13 @@
     "notice_periode": "Free to work after September 01",
     "title": "Backend Developer at Link11 GmbH",
     "info": "Backend C and Python  programming and maintenence of main cloudbased DDOS <br>detection/defending application and internal support",
-    "work": ["● Fixing of customer found bugs",
+    "work": [
+      "● Fixing of customer found bugs",
       "● Maintenance/Developing of internal tools, e.g. Agile Sprint Analyse",
-      "● Internal engineering and tooling workshops", 
-      "● Maintenance of Systems"]
+      "● Internal engineering and tooling workshops",
+      "● Maintenance of Systems"
+    ],
+    "used_languages": "C/C++, PHP, Python, Javascript, Perl, Bash"
   },
   {
     "start_date": "2016",
@@ -18,8 +21,10 @@
     "info": "Backend api programming in PHP for a Cloud-based telephone system and <br>supporting/developing internal Tools. Also Testing with Behat",
     "work": [
       "● Fullstack Developer for internal Tools",
-      "● Backend API Design of the telephone system", 
-      "● Reimplementaion of old Services in Golang"]
+      "● Backend API Design of the telephone system",
+      "● Reimplementaion of old Services in Golang"
+    ],
+    "used_languages": "PHP, Python, Javascript, Golang,C#"
   },
   {
     "start_date": "2014",
@@ -30,20 +35,23 @@
       "● Fullstack (Frontend/Backend/DB) Development",
       "● API Design",
       "● Communication between customer and internal Databases and E-Mail composition",
-      "<div class='pagebreak'> </div>"
-    ]
+    ],
+    "used_languages": "PHP, Python, Javascript",
+    "break_after":""
   },
   {
     "start_date": "2013",
     "end_date": "2014",
     "title": "Working Student Developer at eTermio GmbH",
-    "info": "Working Student (Frontend/Backend/DB) for a Online-Calender-App"
+    "info": "Working Student (Frontend/Backend/DB) for a Online-Calender-App",
+    "used_languages": "PHP, Python, Javascript"
   },
   {
     "start_date": "2010",
     "end_date": "2015",
     "title": "Studied Informatik B.Sc. at Gutenberg Universität Mainz",
-    "info": "Programming of an Onlinevoting-System at my University, also some other Courseworks"
+    "info": "Programming of an Onlinevoting-System at my University, also some other Courseworks",
+    "used_languages": "PHP, Java, C/C++, Haskel"
   },
   {
     "start_date": "2010",

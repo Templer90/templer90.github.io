@@ -11,7 +11,8 @@
       "● Pflege/Entwicklung interner Tools, z.b. Agile Sprint Analyse",
       "● Interne Engineering und Tooling Lehrgänge",
       "● Maintenance der Anwendungen"
-    ]
+    ],
+    "used_languages": "C/C++, PHP, Python, Javascript, Perl, Bash"
   },
   {
     "start_date": "2016",
@@ -22,7 +23,8 @@
       "● Fullstack Entwickler für Interne Tools",
       "● API Design des Backendes des Telefonsystems",
       "● Reimplementaion von alten Services in Golang"
-    ]
+    ],
+    "used_languages": "PHP, Python, Javascript, Golang, C#"
   },
   {
     "start_date": "2014",
@@ -32,21 +34,24 @@
     "work": [
       "● Fullstack (Frontend/Backend/DB) Entwicklung",
       "● API Design",
-      "● Kommunikation zwischen Kunden und Internen Datenbanken und E-Mail Komposition",
-      "<div class='pagebreak'> </div>"
-    ]
+      "● Kommunikation zwischen Kunden und Internen Datenbanken und E-Mail Komposition"
+    ],
+    "used_languages": "PHP, Python, Javascript",
+    "break_after":""
   },
   {
     "start_date": "2013",
     "end_date": "2014",
     "title": "Werkstudent Fullstack Developer bei eTermio GmbH",
-    "info": "Werkstudent (Frontend/Backend/DB) Entwicklung eines Online-Kalender<br>Systems bei eTermio GmbH"
+    "info": "Werkstudent (Frontend/Backend/DB) Entwicklung eines Online-Kalender<br>Systems bei eTermio GmbH",
+    "used_languages": "PHP, Python, Javascript"
   },
   {
     "start_date": "2010",
     "end_date": "2015",
     "title": "Informatik Studium an der Gutenberg Universität Mainz",
-    "info": "Erstellung eines Online-Abstimmungs-Systems im Rahmen eines Universitätspraktikums<br> und weitere Praktika im zuge des Studiums"
+    "info": "Erstellung eines Online-Abstimmungs-Systems im Rahmen eines Universitätspraktikums<br> und weitere Praktika im zuge des Studiums",
+    "used_languages": "PHP, Java, C/C++"
   },
   {
     "start_date": "2010",
