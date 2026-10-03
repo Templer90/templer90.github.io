@@ -36,7 +36,8 @@
       "● Backend API Design of the telephone system",
       "● Reimplementaion of old Services in Golang"
     ],
-    "used_languages": "PHP, Python, Javascript, Golang,C#"
+    "used_languages": "PHP, Python, Javascript, Golang,C#",
+    "break_after":""
   },
   {
     "start_date": "2014",
@@ -49,7 +50,6 @@
       "● Communication between customer and internal Databases and E-Mail composition"
     ],
     "used_languages": "PHP, Python, Javascript",
-    "break_after":""
   },
   {
     "start_date": "2013",
