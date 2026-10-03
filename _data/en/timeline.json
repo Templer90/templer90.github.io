@@ -1,5 +1,17 @@
 [
   {
+    "start_date": "October 2026",
+    "end_date": "Currently Employed",
+    "notice_periode_Comment": "3 Month notice period at beginning of month",
+    "title": "Backend Developer at Bewotec GmbH",
+    "info": "Backend C# Developing/Maintenence of the E-Commerce Backend Rest API",
+    "work": [
+      "● Fixing of customer found bugs",      
+      "● Maintenance of Systems"
+    ],
+    "used_languages": "C#"
+  },
+  {
     "start_date": "2023",
     "end_date": "August 2026",
     "notice_periode_Comment": "3 Month notice period at beginning of month",

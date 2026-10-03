@@ -1,9 +1,19 @@
 [
   {
+    "start_date": "Oktober 2026",
+    "end_date": "Aktuell angestellt",
+    "notice_periode_Comment": "3 Monate Kündigungsfrist zu anfang des Monats",
+    "title": "Backend Developer bei Bewotec GmbH",
+    "info": "Backend C# Entwicklung/Maintenence der E-Commerce Backend Rest API",
+    "work": [
+      "● Kunden betreffende Bugs beheben",
+      "● Maintenance der Anwendungen"
+    ],
+    "used_languages": "C#"
+  },
+  {
     "start_date": "2023",
     "end_date": "August 2026",
-    "notice_periode_Comment": "3 Monate Kündigungsfrist zu anfang des Monats",
-    "notice_periode": "Kann ab dem 01 September anfangen",
     "title": "Backend Developer bei Link11 GmbH",
     "info": "Backend C und Python Entwicklung/Maintenence der Cloud-basierenden DDOS <br>Erkennungs/Verhinderungs Application sowie interner Support",
     "work": [
